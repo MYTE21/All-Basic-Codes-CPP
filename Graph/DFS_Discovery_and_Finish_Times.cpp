@@ -1,5 +1,6 @@
 /**
 --- DFS Discovery  and Finish Times ---
+Time Complexity: Time complexity is O(V+E).
 
 input:
 Total Nodes : 6

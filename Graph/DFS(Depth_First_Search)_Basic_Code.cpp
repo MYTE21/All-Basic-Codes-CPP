@@ -1,6 +1,7 @@
 /**
 DFS (Depth First Search) Basic Code
 
+input:
 Total Nodes : 6
 Total Edges : 7
 Enter connected nodes (n1 n2) :
@@ -11,6 +12,7 @@ Enter connected nodes (n1 n2) :
 3 4
 4 5
 4 6
+output:
 Path : 1 2 3 4 5 6
 
 */

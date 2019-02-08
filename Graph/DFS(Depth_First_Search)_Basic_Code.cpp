@@ -1,5 +1,6 @@
 /**
-DFS (Depth First Search) Basic Code
+--- DFS (Depth First Search) Basic Code ---
+Time Complexity: Time complexity is O(V+E).
 
 input:
 Total Nodes : 6

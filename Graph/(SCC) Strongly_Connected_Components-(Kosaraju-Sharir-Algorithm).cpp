@@ -1,5 +1,12 @@
 /*
+-------------------------------------
+Strongly Connected Components (SCC) :
+-------------------------------------
+A directed graph is strongly connected if there is a path between all pairs of vertices.
+A strongly connected component (SCC) of a directed graph is a maximal strongly connected subgraph.
+------
 input:
+------
 7 8
 1 2
 2 3
@@ -9,7 +16,9 @@ input:
 5 6
 6 7
 7 5
+-------
 output:
+-------
 Numbers of Strongly Connected Components are : 3
 (1) - 1 3 2 
 (2) - 4 

@@ -1,4 +1,5 @@
-/*input
+/*
+input:
 7 8
 1 2
 2 3
@@ -8,6 +9,11 @@
 5 6
 6 7
 7 5
+output:
+Numbers of Strongly Connected Components are : 3
+(1) - 1 3 2 
+(2) - 4 
+(3) - 5 7 6
 */
 #include <cstdio>
 #include <iostream>

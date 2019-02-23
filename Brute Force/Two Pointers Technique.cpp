@@ -5,6 +5,7 @@
 */
 
 /**
+O(n) complexity :
 Two pointer is really an easy and effective technique
 which is typically used for searching pairs in a sorted arrays.
 

@@ -28,7 +28,6 @@ using namespace std ;
 int arr_size ;
 int arr[Max] ;
 int sum_arr[Max] ;
-int index_1, index_2 ;
 
 void Cumulative_Sum ()
 {

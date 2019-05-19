@@ -10,6 +10,19 @@ sum_arr[i][j] = sum_arr[i-1][j] + sum_arr[i][j-1] - sum_arr[i-1][j-1] + arr[i][j
 And ,
 ans = sum_arr[index_X2][index_Y2]-sum_arr[index_X1-1][index_Y2]-sum_arr[index_X2][index_Y1-1]+sum_arr[index_X1-1][index_Y1-1] ;
 ]
+
+
+    ...................
+    .                 .
+    .   A----------B  .
+    .   |          |  .
+    .   |          |  .
+    .   |          |  .
+    .   |          |  .
+    .   D----------C  .
+    ...................
+
+Sum = C-B-D+A
 ------
 input:
 ------
